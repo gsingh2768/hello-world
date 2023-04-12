@@ -1,0 +1,2 @@
+# hello-world
+This is a repo to stor all different ideas as they come to mind.
